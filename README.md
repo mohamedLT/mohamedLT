@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEE9DA&background=6096B4&center=true&vCenter=true&width=435&lines=Hello+There;I+am+Mohamed+;A+Programming+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEE9DA&background=6096B4&center=true&vCenter=true&width=435&lines=Hello+There;I+am+Mohamed+;A+Programming+enthusiast" alt="Typing SVG" style="width:100vw;" /></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedLT&show_icons=true&theme=onedark)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
