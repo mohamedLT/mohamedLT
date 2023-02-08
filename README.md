@@ -1,16 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEE9DA&background=6096B4&center=true&vCenter=true&width=435&lines=Hello+There;I+am+Mohamed+;A+Programming+enthusiast" alt="Typing SVG" style="width:100vw;" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedLT&hide=V,C,GDscript)](https://github.com/anuraghazra/github-readme-stats)
+# Hi 👋👋
+
+I am a Self-taught programmer with a strong passion for complex algorithms and exploring new technologies. Adept in C# and Python, with proficient knowledge of Go, Rust, Dart,and JavaScript/TypeScript. Continuously learning and curious about how things work, I'm always eager to try out new frameworks and technologies. Excited to collaborate and contribute to projects that challenge me to expand my skills and knowledge
+
+---
+[![My Skills](https://skillicons.dev/icons?i=cs,py,js,ts,go,rust,dart,flutter)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,git,bash,docker,mysql)](https://skillicons.dev)
+
+## 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedLT&show_icons=true&theme=onedark)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+
+
